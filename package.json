@@ -8,17 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-minerva/immutable.git"
+    "url": "git+https://github.com/o2minerva/immutable.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-minerva/immutable/issues"
+    "url": "https://github.com/o2minerva/immutable/issues"
   },
-  "homepage": "https://github.com/org-minerva/immutable#readme",
+  "homepage": "https://github.com/o2minerva/immutable#readme",
   "devDependencies": {
     "release-it": "12.4.3"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
