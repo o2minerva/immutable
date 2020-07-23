@@ -10,8 +10,8 @@
 
 ## Prerequisites
 
-- [Node = v10.15.x](https://nodejs.org/en/)
-- NPM >= v6.4.x
+- [Node = v12.18.x](https://nodejs.org/en/)
+- NPM >= v6.14.x
 - [Yarn >= v1.22.0](https://yarnpkg.com/en/docs/install#linux-tab) or `npm install -g yarn`
 
 ## Log
