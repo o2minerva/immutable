@@ -19,5 +19,7 @@
   "devDependencies": {
     "release-it": "12.4.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "immutable": "4.0.0-rc.12"
+  }
 }
